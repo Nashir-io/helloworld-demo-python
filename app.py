@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Hello from Docker first push and Nashir is your unkul!!! WE ARE BETTER THEN VERCEL!
+Hello from Docker first push and Nashir is your unkul!!! WE ARE BETTER THEN VERCEL! AND RENDER!
 ''')
 
 def run():
